@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1681296348 source:c:\users\user\desktop\projekt obiekowka\gra\project\gra.cpp
+	"gra.h"
+
+1681309337 c:\users\user\desktop\projekt obiekowka\gra\project\gra.h
+	"silnik.h"
+	<iostream>
+
+1681309108 c:\users\user\desktop\projekt obiekowka\gra\project\silnik.h
+	"tablica.h"
+	"object.h"
+	"keyboardGetch.h"
+	"keyboard.h"
+
+1681309227 c:\users\user\desktop\projekt obiekowka\gra\project\tablica.h
+
+1681295405 c:\users\user\desktop\projekt obiekowka\gra\project\object.h
+
+1681295755 c:\users\user\desktop\projekt obiekowka\gra\project\keyboardgetch.h
+	<conio.h>
+	"keyboard.h"
+
+1681295716 c:\users\user\desktop\projekt obiekowka\gra\project\keyboard.h
+
+1681296660 source:c:\users\user\desktop\projekt obiekowka\gra\project\gracmd.cpp
+	"gracmd.h"
+
+1681309251 c:\users\user\desktop\projekt obiekowka\gra\project\gracmd.h
+	"gra.h"
+	<iostream>
+
+1681295801 source:c:\users\user\desktop\projekt obiekowka\gra\project\keyboardgetch.cpp
+	"keyboardgetch.h"
+
+1681298493 source:c:\users\user\desktop\projekt obiekowka\gra\project\main.cpp
+	<iostream>
+	<ctime>
+	"tablica.h"
+	"object.h"
+	"keyboard.h"
+	"keyboardgetch.h"
+	"silnik.h"
+	"gra.h"
+	"gracmd.h"
+
+1681295444 source:c:\users\user\desktop\projekt obiekowka\gra\project\object.cpp
+	"object.h"
+
+1681310206 source:c:\users\user\desktop\projekt obiekowka\gra\project\silnik.cpp
+	"silnik.h"
+	<cstdlib>
+	<iostream>
+
+1681296936 source:c:\users\user\desktop\projekt obiekowka\gra\project\keyboard.cpp
+	"keyboard.h"
+	<iostream>
+
+1681296852 source:c:\users\user\desktop\projekt obiekowka\gra\project\tablica.cpp
+	"tablica.h"
+
+1681296348 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gra.cpp
+	"gra.h"
+
+1681309337 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gra.h
+	"silnik.h"
+	<iostream>
+
+1681395503 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\silnik.h
+	"tablica.h"
+	"object.h"
+	"keyboardGetch.h"
+	"keyboard.h"
+
+1681309227 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\tablica.h
+
+1681295405 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\object.h
+
+1681295755 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\keyboardgetch.h
+	<conio.h>
+	"keyboard.h"
+
+1681295716 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\keyboard.h
+
+1681296660 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gracmd.cpp
+	"gracmd.h"
+
+1681309251 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gracmd.h
+	"gra.h"
+	<iostream>
+
+1681296936 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\keyboard.cpp
+	"keyboard.h"
+	<iostream>
+
+1681295801 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\keyboardgetch.cpp
+	"keyboardgetch.h"
+
+1681298493 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\main.cpp
+	<iostream>
+	<ctime>
+	"tablica.h"
+	"object.h"
+	"keyboard.h"
+	"keyboardgetch.h"
+	"silnik.h"
+	"gra.h"
+	"gracmd.h"
+
+1681295444 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\object.cpp
+	"object.h"
+
+1681310206 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\silnik.cpp
+	"silnik.h"
+	<cstdlib>
+	<iostream>
+
+1681296852 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\tablica.cpp
+	"tablica.h"
+
