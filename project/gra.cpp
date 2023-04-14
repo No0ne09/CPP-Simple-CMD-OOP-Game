@@ -8,10 +8,18 @@ Gra::Gra() {
 
 
 void Gra::Display(int& kroki, int& licz_enemy, int& licz_player) {
-    cout << "Twoj x: " << Player.GetX();
-    cout << " Twoj y: " << Player.GetY() << endl;
-    cout << "Wrogi x: " << Enemy1.GetX();
-    cout << " Wrogi y: " << Enemy1.GetY() << endl;
+    cout << "Twoja kolumna: " << Player.GetX()<<" ";
+    cout << "Twoj wiersz: " << Player.GetY() << endl;
+    cout << "Wrogi wiersz: " << Enemy1.GetX()<<" ";
+    cout << "Wroga kolumna: " << Enemy1.GetY() << endl;
+    cout << "Moneta 1 kolumna: " << Moneta1.GetX()<< endl;;
+    cout << "Moneta 1 wiersz: " << Moneta1.GetY() << endl;
+    cout << "Moneta 2 kolumna: " << Moneta2.GetX()<< endl;;
+    cout << "Moneta 2 wiersz: " << Moneta2.GetY() << endl;
+    cout << "Moneta 3 kolumna: " << Moneta3.GetX()<< endl;;
+    cout << "Moneta 3 wiersz: " << Moneta3.GetY() << endl;
+    cout << "Moneta 4 kolumna: " << Moneta4.GetX()<< endl;;
+    cout << "Moneta 4 wiersz: " << Moneta4.GetY() << endl;
     cout << "Twoje punkty: " << licz_player << endl;
     cout << "Punkty przeciwnika: " << licz_enemy << endl;
     cout << "Pozostalo " << kroki << " ruchow" << endl;

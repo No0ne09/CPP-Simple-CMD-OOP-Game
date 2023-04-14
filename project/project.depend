@@ -58,7 +58,7 @@
 1681296852 source:c:\users\user\desktop\projekt obiekowka\gra\project\tablica.cpp
 	"tablica.h"
 
-1681296348 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gra.cpp
+1681452696 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gra.cpp
 	"gra.h"
 
 1681309337 c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\gra.h
@@ -95,14 +95,9 @@
 1681295801 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\keyboardgetch.cpp
 	"keyboardgetch.h"
 
-1681298493 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\main.cpp
+1681395630 source:c:\users\user\desktop\studia\4 semestr\obiektówka\projekt obiekowka\gra\project\main.cpp
 	<iostream>
 	<ctime>
-	"tablica.h"
-	"object.h"
-	"keyboard.h"
-	"keyboardgetch.h"
-	"silnik.h"
 	"gra.h"
 	"gracmd.h"
 
